@@ -34,6 +34,9 @@ A URL consists of a domain, sub-directories (optional), and a page name.
 
 ## URL standards 
 
+### URLs must not contain PII
+Paragraph about PII in URLs.
+
 ### URLs must be unique and distinctly different.
 - Each URL must be completely unique within a domain.  Two pages with the same URL cannot exist on the same site. 
 - Each URL must be specific enough to clearly differentiate each page. We cannot have multiple pages with very similar URLs. 
